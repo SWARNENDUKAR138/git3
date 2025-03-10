@@ -1,0 +1,72 @@
+git init
+    git add testing.py
+    git status
+    git rm --cached testing.py
+    git add .
+    git commit -m "added testing files"
+    git commit -m "added testing files"
+    rm testing.py
+    git restore testing.pygit remote add origin https://github.com/Swarnendu138/GITHUB_SWARNENDU_DEVOPS_TRAIL.git
+   git branch -M main
+   git push -u origin main~
+    git remote add origin https://github.com/Swarnendu138/GITHUB_SWARNENDU_DEVOPS_TRAIL.git
+    git remote -v
+    git push origin master
+    CLEAR
+    git remote -v
+    git remote set-url origin https://@github.com/Swarnendu138/GITHUB_SWARNENDU_DEVOPS.git
+    git remote -v
+    git push origin master
+    git remote add origin https://github.com/Swarnendu138/GITHUB_SWARNENDU_DEVOPS_TRAIL.git 
+    git remote set-url origin https://@github.com/Swarnendu138/GITHUB_SWARNENDU_DEVOPS_TRAIL.git  
+    git remote -v
+    git push origin master
+    git remote add origin https://github.com/Swarnendu138/GITHUB_SWARNENDU_DEVOPS_TRAIL.git 
+    git remote -v
+    git push origin master
+    git remote set-url origin https://@github.com/Swarnendu138/GITHUB_SWARNENDU_DEVOPS_TRAIL.git 
+    git remote -v
+    git push origin master
+    git push
+    push.autoSetupRemote
+    git help config'
+    git push --set-upstream origin master
+    clear
+    history
+    git push origin main
+git status
+ clear
+git add .
+git statusss
+clear
+git status
+git commit -m "added testing files"
+clearsss
+git status
+rm testing.py
+ls
+clear
+git statusssss
+git restore testing.py
+clear
+git status
+
+git remote add origin https://github.com/LondheShubham153/github-for-devops-workshop.git
+git remote -v
+git status
+ 
+git remote set-url origin https://github.com/LondheShubham153/github-for-devops-workshop.git
+clear
+git remote -v
+git push origin master
+clear
+
+
+this is some new changes
+
+
+
+
+
+
+
