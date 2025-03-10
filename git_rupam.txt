@@ -1,0 +1,1 @@
+print("tantu ekta pagla choda"   swarnendu bokachoda )
